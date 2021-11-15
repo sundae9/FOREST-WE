@@ -23,5 +23,7 @@
 - 스케쥴러
 - 시스템 시간조작
 - WER
+- RecycleBin
+- Registry - x
 - Amcache - x
 - ActivitiesCache.db - x
