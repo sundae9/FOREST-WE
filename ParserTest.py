@@ -71,8 +71,6 @@ def create(path):
         #레지스트리
         os.makedirs(path +"/Desktop/Art/Registry", exist_ok=True)
         
-
-
     except Exception as ex:
         print(ex)
 
@@ -282,7 +280,6 @@ def continuous_execution(path) : # 지속실행 등록
         print(ex)
 
 
-
 def TimeLine(path) :
     try:
         print("\n\n-------------------------------------------------------------------\n")
@@ -396,3 +393,7 @@ def main():
 
 if __name__=="__main__":
     main()
+    
+    
+    
+    
