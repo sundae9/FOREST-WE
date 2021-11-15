@@ -1,4 +1,4 @@
-# Broswer.py
+# Browser.py
 - Chrome
 - Edge
 - IE
