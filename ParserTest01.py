@@ -65,9 +65,6 @@ def create(path):
         os.makedirs(path +"/Desktop/Art/user_account/RDP Usage/Cache ", exist_ok=True)      
         
 
-
-
-
     except Exception as ex:
         print(ex)
 
@@ -195,7 +192,6 @@ def program_start(path) : # 프로그램 실행
          
     except Exception as ex:
         print(ex)
-
 
 
 
@@ -362,7 +358,6 @@ def main():
 
 
     
-
     print("\n\n-------------------  END  --------------------------------------------\n")
     lasttime = datetime.datetime.now()
     print("[-] Last Time :", lasttime)    
@@ -370,3 +365,7 @@ def main():
 
 if __name__=="__main__":
     main()
+    
+    
+    
+    
