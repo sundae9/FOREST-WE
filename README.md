@@ -1,7 +1,12 @@
 # FOREST-WE
 Team Project
 
-FileSystem_Artifacts
+# Broswer.py
+- Chrome
+- Edge
+- IE
+
+# FileSystem.py
 - $MFT
 - $LogFile
 - $UsnJrnl
