@@ -8,7 +8,7 @@
 - $LogFile
 - $UsnJrnl
 
-#ParserTest.py
+# ParserTest.py
 - RecentDocs
 - OfficeRecentFiles
 - HWPRecentFiles
