@@ -73,7 +73,7 @@ def edge(path):
     except Exception as ex:
         print(ex)
 
-# 익스플로어 아티팩트 수집 (Permission denied)
+# 익스플로어 아티팩트 수집
 def ie(path,user):
     try:
         print("\n[*] IE Browser artifact Collecting...")
